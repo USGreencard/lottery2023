@@ -1,0 +1,71 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="greencardlottary.com" resolutions="1x" timestamp="1663092112352">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="page1-copy.css" crc="4188241195" ref="page1-copy"/>
+    <file name="page2-copy.css" crc="3829890038" ref="page2-copy"/>
+    <file name="page2.css" crc="60507718" ref="page2"/>
+    <file name="page3-copy.css" crc="343336245" ref="page3-copy"/>
+    <file name="page3.css" crc="509599171" ref="page3"/>
+    <file name="page1.css" crc="4253420522" ref="page1"/>
+    <file name="index.css" crc="3871105246" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="page1:page2:page3:index:page1-copy:page2-copy:page3-copy"/>
+    <file name="museutils.js" crc="3939489907" ref="page1:page2:page3:index:page1-copy:page2-copy:page3-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="page1:page2:page3:index:page1-copy:page2-copy:page3-copy"/>
+    <file name="museconfig.js" crc="3936894949" ref="page1:page2:page3:index:page1-copy:page2-copy:page3-copy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="page1:page2:page3:index:page1-copy:page2-copy:page3-copy"/>
+    <file name="jquery.watch.js" crc="522499760" ref="page1:page2:page3:index:page1-copy:page2-copy:page3-copy"/>
+    <file name="require.js" crc="4177726516" ref="page1:page2:page3:index:page1-copy:page2-copy:page3-copy"/>
+  </folder>
+  <folder name="images">
+    <file name="a-united-states-green-card-next-to-a-tourist-visa.jpg" crc="193011549" ref="page1:page2:page3:index:page1-copy:page2-copy:page3-copy">
+      <caption webpage="page3" alt=""/>
+      <caption webpage="page1-copy" alt=""/>
+      <caption webpage="page2-copy" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="page1" alt=""/>
+      <caption webpage="page1" alt=""/>
+      <caption webpage="page3-copy" alt=""/>
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="footer-logo.png" crc="4179442665" ref="page1:page2:page3:index:page1-copy:page2-copy:page3-copy">
+      <caption webpage="page3" alt=""/>
+      <caption webpage="page1-copy" alt=""/>
+      <caption webpage="page2-copy" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="page1" alt=""/>
+      <caption webpage="page3-copy" alt=""/>
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="u105-9.png" crc="3797713069" ref="page1"/>
+    <file name="u112-4.png" crc="71744459" ref="page1"/>
+    <file name="u161-4.png" crc="3847902515" ref="page1"/>
+    <file name="u157-4.png" crc="291157430" ref="page1"/>
+    <file name="u206-4.png" crc="4179091857" ref="page2"/>
+    <file name="u216-4.png" crc="3994314077" ref="page2"/>
+    <file name="u210-4.png" crc="4115802607" ref="page2"/>
+    <file name="u298-4.png" crc="148080010" ref="page3"/>
+    <file name="u339-4.png" crc="4218805597" ref="page3"/>
+    <file name="u868-4.png" crc="208612999" ref="page3"/>
+    <file name="u830-4.png" crc="49645387" ref="index"/>
+    <file name="u835-4.png" crc="363782317" ref="index"/>
+    <file name="u890-8.png" crc="133923786" ref="page1-copy"/>
+    <file name="u897-4.png" crc="200792148" ref="page1-copy"/>
+    <file name="u893-4.png" crc="4003633587" ref="page1-copy"/>
+    <file name="u891-4.png" crc="4259808803" ref="page1-copy"/>
+    <file name="u944-4.png" crc="4080910938" ref="page2-copy"/>
+    <file name="u949-4.png" crc="390842063" ref="page2-copy"/>
+    <file name="u947-4.png" crc="105668227" ref="page2-copy"/>
+    <file name="u986-4.png" crc="349907731" ref="page3-copy"/>
+    <file name="u987-4.png" crc="4068131277" ref="page3-copy"/>
+    <file name="u989-4.png" crc="4127660630" ref="page3-copy"/>
+  </folder>
+  <file name="page1.html" crc="3973512680" seo="true" mt="1663091096819" redirect="true"/>
+  <file name="page2.html" crc="4173730318" seo="true" mt="1663091212686" redirect="true"/>
+  <file name="page3.html" crc="3893373044" seo="true" mt="1663091597931" redirect="true"/>
+  <file name="index.html" crc="428839783" seo="true" mt="1663090521904" redirect="true"/>
+  <file name="page1-copy.html" crc="306681270" seo="true" mt="1663091146591" redirect="true"/>
+  <file name="page2-copy.html" crc="4012477523" seo="true" mt="1663091301521" redirect="true"/>
+  <file name="page3-copy.html" crc="3828579005" seo="true" mt="1663092023715" redirect="true"/>
+</manifest>
